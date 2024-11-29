@@ -1,4 +1,4 @@
-# CODTName:Zaiba Khanum
+# CODTName:Sindhu R
 company: CODTECH IT SOLUTIONS
 Name:Sindhu R
 ID:CTO8DS10442
